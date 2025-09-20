@@ -505,7 +505,7 @@ export function CrisisModal({ isOpen, onClose }: CrisisModalProps) {
               className="rounded-2xl px-8 py-2 border-slate-700 text-muted-foreground hover:bg-slate-800"
               onClick={onClose}
             >
-              Continue with MindMate Support
+              Continue with Bloomly Support
             </Button>
             <div className="flex items-center justify-center space-x-4 text-xs text-muted-foreground">
               <div className="flex items-center">
