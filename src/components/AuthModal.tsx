@@ -93,7 +93,7 @@ export function AuthModal({ isOpen, onClose, onLogin }: AuthModalProps) {
                   <span className="text-2xl">🌟</span>
                 </motion.div>
                 <h2 className="text-2xl font-bold bg-gradient-to-r from-violet-400 to-blue-400 bg-clip-text text-transparent">
-                  Welcome to MindMate
+                  Welcome to Bloomly
                 </h2>
                 <p className="text-muted-foreground">Choose how you'd like to connect</p>
               </div>
