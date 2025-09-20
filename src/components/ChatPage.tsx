@@ -180,7 +180,7 @@ export function ChatPage() {
         <div className="w-full max-w-2xl h-[90%] bg-background text-foreground rounded-xl shadow-lg flex flex-col border border-border">
           {/* Header */}
           <header className="flex justify-between items-center p-4 border-b border-border">
-            <h1 className="text-2xl font-semibold">Chat with MindMate</h1>
+            <h1 className="text-2xl font-semibold">Chat with Bloomly</h1>
             <div className="flex items-center gap-2">
               <Button variant="outline" size="sm" onClick={handleNewChat}>
                 🆕 New Chat
